@@ -1,0 +1,1 @@
+This tutorial shows how to create a basic ARIMA model and uses airplane passenger data from kaggle. This repo is meant to go along with a blog post found [here](https://chrisgrannan.medium.com/arima-modeling-7433b17b71dd).
